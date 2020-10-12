@@ -1,0 +1,2 @@
+export POM_PORT=8080
+export POM_CONFIG=config.json
