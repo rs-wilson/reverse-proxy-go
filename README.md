@@ -16,6 +16,8 @@ Ultimately, this was a time-limited project, and I did not get done everything I
 * 4 hours of with-prompt building
 * Manual end-to-end testing with insomnia
 
+The biggest TODO is an end-to-end test, as well as additional unit testing.
+
 # Instructions
 
 ## Build
@@ -34,4 +36,3 @@ or
 ### Test
 Ensure you have a `.env` file, then:  
 `make test`
-
